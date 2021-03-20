@@ -1,4 +1,5 @@
 # Lazyload
+预览地址：https://siriushsia.cn/Lazyload/src/index.html
 原生实现图片懒加载
 
 ## 图片加载条件
